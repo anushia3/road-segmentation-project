@@ -1,0 +1,20 @@
+# Virtual environment
+venv/
+
+# Dataset
+dataset/
+dataset.zip
+
+# Raster files
+*.tif
+*.tiff
+
+# Python
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
